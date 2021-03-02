@@ -1,5 +1,5 @@
 
-## Hey hey... I'm Murat... an academic in training to become a data scientist.
+## Hey hey... I'm Murat... a political psychologist and an aspiring data scientist.
 
 Not much to see here yet... Check back soon to see if I have added anything new/interesting here.
 
