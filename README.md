@@ -1,6 +1,14 @@
 
-## Hey hey... I'm Murat... a political psychologist and an aspiring data scientist.
+## I am a  political psychologist in training to become a data scientist.
 
-Not much to see here yet... Check back soon to see if I have added anything new/interesting ...
+I believe in polygamy. I actively work with
 
-Meanwhile, feel free to reach out or take a look at my [LinkedIn profile](https://www.linkedin.com/in/mmuratardag/).
+![polygamy](polygamy.png)
+
+I constantly go on dates with the following libraries; I love being in their ecosystems.
+
+![date](date.png)
+
+Though, the [lavaan ecosystem](https://osf.io/bcy78/) is my first love. I also had a love at first sight kinda thing with the psychometric networks (maybe get an impression of what they are from [here](https://psych-networks.com/r-packages) & [here](http://psychonetrics.org)).
+
+Feel free to reach out or take a look at my [LinkedIn profile](https://www.linkedin.com/in/mmuratardag/).
