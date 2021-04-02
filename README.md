@@ -1,5 +1,5 @@
 
-## I am a  political psychologist in training to become a data scientist
+## I am a data scientist and a political psychologist
 
 I believe in polygamy. I actively work with
 
