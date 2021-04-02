@@ -5,7 +5,7 @@ I believe in polygamy. I actively work with
 
 ![polygamy](polygamy.png)
 
-I constantly go on dates with the following libraries; I love traversing their ecosystems.
+I constantly go on dates with the following libraries; I enjoy traversing their ecosystems.
 
 ![date](date.png)
 
