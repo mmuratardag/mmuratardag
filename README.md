@@ -7,11 +7,11 @@ I believe in polygamy. I actively work with
 
 I constantly go on dates with the following libraries; I enjoy traversing their ecosystems.
 
-![date](date.png)
+![date](date_wbg.png)
 
 Though, the lavaan ecosystem is my first love. Also, I had a love at first sight kinda thing with the psychometric networks. 
 
-![love at first sight](love_at_first_sight.png)
+![love at first sight](love_at_first_sight_wbg.png)
 
 I have been flirting with the following cutie pies for a while now and loving them all.
 
