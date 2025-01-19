@@ -4,4 +4,4 @@
 
 ![logos](logos.png)
 
-[![LI](https://img.shields.io/badge/-Connect-0e76a8?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mmuratardag/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mmuratardag/)
