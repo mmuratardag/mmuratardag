@@ -1,5 +1,5 @@
 
-## Data Science, Political Psychology & lately Cyber-Security
+## Data Science, Statistics & lately Cybersecurity
 
 
 ![logos](logos.png)
